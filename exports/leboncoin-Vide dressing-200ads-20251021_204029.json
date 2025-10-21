@@ -1,0 +1,1800 @@
+{
+  "metadata": {
+    "query": "Vide dressing",
+    "total_ads": 200,
+    "scraped_at": "2025-10-21T20:40:29.004742",
+    "scraper": "Scrapling JSON Scraper v1.0",
+    "method": "StealthyFetcher"
+  },
+  "ads": [
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3058567487",
+      "list_id": "vetements",
+      "title": "Vide dressing ( vêtements neufs)",
+      "location": "Pointe-à-Pitre 97110",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.514646"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3040260372",
+      "list_id": "vetements",
+      "title": "Vide dressing à mon domicile",
+      "price": 5,
+      "location": "Limoges 87000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.515049"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3056091785",
+      "list_id": "ameublement",
+      "title": "Grand vide-box vide-dressing",
+      "price": 10,
+      "location": "Gap 05000",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:35:12.515248"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3042180039",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 500,
+      "location": "Seurre 21250",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.515426"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3074811218",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 0,
+      "location": "Verrières-en-Anjou 49480 Saint-Sylvain-d'Anjou",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.515598"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3070058198",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 15,
+      "location": "Nice 06000 Baumettes",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.515766"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3073211241",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 5,
+      "location": "Tours 37000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.515933"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3070996396",
+      "list_id": "evenements",
+      "title": "Vide-dressing",
+      "location": "Grandfresnoy 60680",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:35:12.516089"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3077636902",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 35,
+      "location": "Rueil-Malmaison 92500",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.516265"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3073560098",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "location": "Chaintreaux 77460",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.516549"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3067512068",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Lucé 28110",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.516731"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3062340291",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 6,
+      "location": "Remire-Montjoly 97354",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.516899"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3072566204",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 0,
+      "location": "Bordeaux 33000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.517073"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3077992359",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 0,
+      "location": "Bastia 20200",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.517239"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3069101751",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Lux 71100",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.517404"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3077535853",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 10,
+      "location": "Cholet 49300",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.517567"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3074567693",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Torcy 77200",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.517733"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3075412838",
+      "list_id": "evenements",
+      "title": "Vide dressing - Taverny",
+      "price": 0,
+      "location": "Taverny 95150",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:35:12.517905"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3070832320",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 5,
+      "location": "Saint-Étienne 42000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.518078"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3076438112",
+      "list_id": "vetements",
+      "title": "Vide dressing à domicile",
+      "price": 0,
+      "location": "Clermont-Ferrand 63000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.518353"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3064707117",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 0,
+      "location": "Gex 01170",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.518670"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3073490671",
+      "list_id": "evenements",
+      "title": "Vide dressing",
+      "location": "Nantes 44000 Malakoff-Saint-Donatien",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:35:12.518885"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3076387161",
+      "list_id": "vetements",
+      "title": "Vide dressing Homme Femme",
+      "price": 1,
+      "location": "Reims 51100",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.519180"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3076526062",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Saint-André-le-Coq 63310",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.519423"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3075410485",
+      "list_id": "evenements",
+      "title": "Vide-Grenier / Vide-Dressing",
+      "location": "Brest 29200",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:35:12.519582"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3059592532",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 5,
+      "location": "Wittelsheim 68310",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.519754"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3067859961",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 2,
+      "location": "Foussais-Payré 85240",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.519921"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3069844939",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Entraigues-sur-la-Sorgue 84320",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.520096"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3068725462",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 0,
+      "location": "Saint-Didier-sur-Chalaronne 01140",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.520263"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3069120667",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Cogolin 83310",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.520426"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3068318752",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 5,
+      "location": "Limoges 87000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.520616"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3076978880",
+      "list_id": "vetements",
+      "title": "Vide dressing sur rdv - 5 novembre",
+      "price": 1,
+      "location": "Fontenay-le-Comte 85200",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.520780"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3072151589",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 10,
+      "location": "Paris 75004 4e Arrondissement",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:12.520948"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3036156444",
+      "list_id": "evenements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Guéret 23000",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:35:12.521122"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3071834147",
+      "list_id": "evenements",
+      "title": "Vide dressing Lacapelle Cabanac",
+      "price": 0,
+      "location": "Lacapelle-Cabanac 46700",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:35:12.521300"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3036156444",
+      "list_id": "evenements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Guéret 23000",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:35:47.972202"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3077174529",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 2,
+      "location": "Saint-Pierre-du-Chemin 85120",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.972366"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3070353030",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 0,
+      "location": "Saint-André 97440",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.972517"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3071064548",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Mazamet 81200",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.972667"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3076689217",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 3,
+      "location": "Charleville-Mézières 08000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.972827"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3070996396",
+      "list_id": "evenements",
+      "title": "Vide-dressing",
+      "location": "Grandfresnoy 60680",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:35:47.972957"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3076005052",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 5,
+      "location": "Saint-François 97118",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.973106"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3075725280",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 4,
+      "location": "Saint-Benoît 97470",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.973254"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3075718335",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 5,
+      "location": "Saint-Benoît 97470",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.973399"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3075570013",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 3,
+      "location": "Saint-Benoît 97470",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.973548"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3075375143",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 10,
+      "location": "Pointe-à-Pitre 97110",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.973695"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3072566204",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 0,
+      "location": "Bordeaux 33000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.973842"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3074913645",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 10,
+      "location": "Sarreguemines 57200",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.973989"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3073999505",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Toulouse 31500 Bonnefoy-Roseraie-Gramont",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.974134"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3069498919",
+      "list_id": "evenements",
+      "title": "Vide-dressing",
+      "price": 10,
+      "location": "Moustoir-Ac 56500",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:35:47.974287"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3072455346",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 10,
+      "location": "Couzeix 87270",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.974444"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3071372301",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 2,
+      "location": "Saint-Leu 97416 La Chaloupe Saint-Leu",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.974591"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3074293206",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Ruffigné 44660 Bel-Air",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.974738"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3074141572",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 10,
+      "location": "Macouria 97355",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.974912"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3073924388",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Colmar 68000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.975071"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3069844939",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Entraigues-sur-la-Sorgue 84320",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.975234"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3073837648",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 2,
+      "location": "Pietrosella 20166",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.975401"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3073678011",
+      "list_id": "evenements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Pont-l'Évêque 14130",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:35:47.975561"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3073364797",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "location": "Blaye 33390",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.975718"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3073362565",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 5,
+      "location": "Blaye 33390",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.975866"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3073360967",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 10,
+      "location": "Blaye 33390",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.976014"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3073211241",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 5,
+      "location": "Tours 37000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.976159"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3073055537",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 5,
+      "location": "Mérignac 33700",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.976305"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3068725462",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 0,
+      "location": "Saint-Didier-sur-Chalaronne 01140",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.976504"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3073027427",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 15,
+      "location": "Caudry 59540",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.976682"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3072899027",
+      "list_id": "vetements",
+      "title": "Vide- dressing",
+      "price": 1,
+      "location": "Saint-Nazaire 44600",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.976994"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3068318752",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 5,
+      "location": "Limoges 87000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.977260"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3076347475",
+      "list_id": "vetements",
+      "title": "Vide dressing femme",
+      "price": 2,
+      "location": "Pélissanne 13330",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.977435"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3068807761",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Grenoble 38000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:35:47.977655"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3075168357",
+      "list_id": "evenements",
+      "title": "Vide dressing solidaire",
+      "price": 1,
+      "location": "Les Sables-d'Olonne 85180",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:35:47.978053"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3075168357",
+      "list_id": "evenements",
+      "title": "Vide dressing solidaire",
+      "price": 1,
+      "location": "Les Sables-d'Olonne 85180",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:38:39.006072"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3068137813",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 10,
+      "location": "Génissieux 26750",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:38:39.006292"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3071626294",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 50,
+      "location": "Moulins 03000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:38:39.006454"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3074776300",
+      "list_id": "vetements",
+      "title": "Vide dressing enfant",
+      "price": 3,
+      "location": "Vaux-le-Pénil 77000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:38:39.006631"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3075412838",
+      "list_id": "evenements",
+      "title": "Vide dressing - Taverny",
+      "price": 0,
+      "location": "Taverny 95150",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:38:39.006917"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3067512068",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Lucé 28110",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:38:39.007377"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3074157847",
+      "list_id": "vetements",
+      "title": "Vide Dressing Urgent",
+      "price": 1,
+      "location": "Sens 89100",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:38:39.007555"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3070832320",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 5,
+      "location": "Saint-Étienne 42000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:38:39.007718"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3072848742",
+      "list_id": "ameublement",
+      "title": "Vide dressing/maison",
+      "price": 1,
+      "location": "Leigneux 42130",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:38:39.007877"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3067520773",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 2,
+      "location": "Lille 59000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:38:39.008037"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3070058198",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 15,
+      "location": "Nice 06000 Baumettes",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:38:39.008326"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/chaussures/3069988525",
+      "list_id": "chaussures",
+      "title": "Vide dressing",
+      "price": 5,
+      "location": "Saint-Pierre 97410",
+      "category_name": "Chaussures",
+      "scraped_at": "2025-10-21T20:38:39.008482"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3074638731",
+      "list_id": "vetements",
+      "title": "Grand Vide dressing",
+      "price": 50,
+      "location": "Montfort-en-Chalosse 40380",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:38:39.008649"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3069627537",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 2,
+      "location": "Strasbourg 67100 La Meinau",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:38:39.008804"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3076634885",
+      "list_id": "evenements",
+      "title": "Vide Maison / Vide Dressing",
+      "price": 0,
+      "location": "Granville 50400",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:38:39.008966"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3075681064",
+      "list_id": "ameublement",
+      "title": "Vide-grenier Vide-dressing",
+      "price": 1,
+      "location": "Bourcefranc-le-Chapus 17560",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:38:39.009120"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3069120667",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Cogolin 83310",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:38:39.009276"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3069101751",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Lux 71100",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:38:39.009429"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/decoration/3078540262",
+      "list_id": "decoration",
+      "title": "Vide Maison Vide Dressing",
+      "price": 0,
+      "location": "Malafretaz 01340",
+      "category_name": "Décoration",
+      "scraped_at": "2025-10-21T20:38:39.009583"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3074999113",
+      "list_id": "evenements",
+      "title": "Vide maison - vide dressing",
+      "price": 1,
+      "location": "Vaux-en-Pré 71460",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:38:39.009745"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3075710472",
+      "list_id": "evenements",
+      "title": "Vide dressing / vide maison",
+      "price": 0,
+      "location": "Fontenay-sous-Bois 94120",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:38:39.009948"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3068676621",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Gagny 93220",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:38:39.010114"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3037320158",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 3,
+      "location": "Saint-Louis 97450",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:38:39.010268"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3073790148",
+      "list_id": "ameublement",
+      "title": "Vide grange / Vide dressing",
+      "price": 0,
+      "location": "Veyrac 87520",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:38:39.010422"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3076156426",
+      "list_id": "evenements",
+      "title": "Vide-dressing vide maison",
+      "price": 10,
+      "location": "Saint-Aubin-en-Bray 60650",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:38:39.010582"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3068303113",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 5,
+      "location": "Saint-François 97118",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:38:39.010748"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3068243091",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 15,
+      "location": "Clouange 57185",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:38:39.010905"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3078267918",
+      "list_id": "vetements",
+      "title": "Vide dressing fille",
+      "price": 1,
+      "location": "Montréjeau 31210",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:38:39.011059"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3071399024",
+      "list_id": "vetements",
+      "title": "Vide dressing 🌷",
+      "price": 10,
+      "location": "Rennes 35000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:38:39.011213"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3071764218",
+      "list_id": "vetements",
+      "title": "Grand vide dressing",
+      "price": 80,
+      "location": "Launaguet 31140",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:38:39.011378"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3076245018",
+      "list_id": "vetements",
+      "title": "Vide dressing , robes",
+      "price": 5,
+      "location": "Kunheim 68320",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:38:39.011530"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3068038524",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 5,
+      "location": "Lille 59000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:38:39.011682"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3075654416",
+      "list_id": "vetements",
+      "title": "Vide dressing permanent",
+      "location": "Montpellier 34000 Antigone",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:38:39.011841"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3065457604",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 10,
+      "location": "Liffré 35340",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:38:39.011994"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3070477088",
+      "list_id": "vetements",
+      "title": "Vide dressing puériculture",
+      "price": 1,
+      "location": "Le Pontet 84130",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:38:39.012145"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3067859961",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 2,
+      "location": "Foussais-Payré 85240",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.662778"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3067852428",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 3,
+      "location": "Foussais-Payré 85240",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.663083"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3067842480",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 2,
+      "location": "Foussais-Payré 85240",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.663348"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3067574493",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 18,
+      "location": "Les Abymes 97139",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.663605"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3067574162",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 10,
+      "location": "Les Abymes 97139",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.663977"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3066063583",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Reims 51100",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.664231"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3041959333",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 40,
+      "location": "Cherbourg-en-Cotentin 50100 Cherbourg",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.664432"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3073905388",
+      "list_id": "vetements",
+      "title": "Vide dressing permanent",
+      "price": 2,
+      "location": "Antigny 86310",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.664602"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3064678887",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Perpignan 66000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.664763"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3076049956",
+      "list_id": "vetements",
+      "title": "Vide-dressing vide maison",
+      "price": 10,
+      "location": "Saint-Aubin-en-Bray 60650",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.664921"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3078414535",
+      "list_id": "vetements",
+      "title": "Vide dressing petits prix",
+      "price": 1,
+      "location": "Saint-Pierre-La-Noue 17700",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.665086"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3066948052",
+      "list_id": "evenements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Choue 41170",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:39:14.665410"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3071316238",
+      "list_id": "evenements",
+      "title": "Vide maison vide dressing",
+      "price": 2,
+      "location": "Berck 62600",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:39:14.665672"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3066791497",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Saint-Jean-de-Braye 45800",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.665917"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3078418885",
+      "list_id": "vetements",
+      "title": "Vide dressing petits prix",
+      "price": 0,
+      "location": "Brest 29200",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.666164"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3076438112",
+      "list_id": "vetements",
+      "title": "Vide dressing à domicile",
+      "price": 0,
+      "location": "Clermont-Ferrand 63000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.666426"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3063214641",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 3,
+      "location": "Le Tampon 97430",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.666673"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077570879",
+      "list_id": "ameublement",
+      "title": "Vide maison / vide dressing",
+      "price": 3,
+      "location": "Saint-Vincent-de-Tyrosse 40230",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:39:14.666930"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3068821009",
+      "list_id": "vetements",
+      "title": "Grand vide dressing",
+      "price": 4,
+      "location": "Sartrouville 78500",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.667199"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3066247388",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Pont-à-Mousson 54700",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.667455"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3066119422",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 50,
+      "location": "Fretin 59273",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.667706"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3066115538",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 100,
+      "location": "Fretin 59273",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.667955"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3066110487",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 100,
+      "location": "Fretin 59273",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.668204"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3075410485",
+      "list_id": "evenements",
+      "title": "Vide-Grenier / Vide-Dressing",
+      "location": "Brest 29200",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:39:14.668432"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3065195876",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Chartres-de-Bretagne 35131",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.668687"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3071256366",
+      "list_id": "vetements",
+      "title": "Vide dressing femme",
+      "price": 1,
+      "location": "Le Havre 76600",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.668955"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3077608068",
+      "list_id": "vetements",
+      "title": "VIDE-DRESSING PERMANENT – Robes",
+      "location": "Montpellier 34000 Antigone",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.669217"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3075087494",
+      "list_id": "vetements",
+      "title": "Vide dressing enfant fille",
+      "price": 1,
+      "location": "Savonnières 37510",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.669470"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3077485815",
+      "list_id": "vetements",
+      "title": "Vide-dressing permanent – miscellaneous",
+      "location": "Montpellier 34000 Antigone",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.669718"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3077468479",
+      "list_id": "vetements",
+      "title": "VIDE-DRESSING PERMANENT – Robes",
+      "location": "Montpellier 34000 Antigone",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.669974"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3078311043",
+      "list_id": "evenements",
+      "title": "Vide dressing à domicile",
+      "location": "Stains 93240",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:39:14.670192"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/services_evenementiels/3063928068",
+      "list_id": "services_evenementiels",
+      "title": "Vide dressing",
+      "price": 0,
+      "location": "Paris 75018 18e Arrondissement",
+      "category_name": "Services évènementiels",
+      "scraped_at": "2025-10-21T20:39:14.670449"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3070950996",
+      "list_id": "vetements",
+      "title": "Vide dressing enfants",
+      "price": 1,
+      "location": "Mallemort 13370",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.670690"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3065828224",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 30,
+      "location": "Saint-Palais 64120",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.670948"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3065823865",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 30,
+      "location": "Saint-Palais 64120",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:14.671195"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3065815406",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 30,
+      "location": "Saint-Palais 64120",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.372873"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3076172900",
+      "list_id": "evenements",
+      "title": "Vide dressing/maison 🫰",
+      "price": 0,
+      "location": "Strasbourg 67000 Kléber-Gare",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:39:51.373273"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3063859861",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Poitiers 86000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.373559"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3063583032",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Sainte-Anne-sur-Gervonde 38440",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.373820"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3071834147",
+      "list_id": "evenements",
+      "title": "Vide dressing Lacapelle Cabanac",
+      "price": 0,
+      "location": "Lacapelle-Cabanac 46700",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:39:51.374169"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3070014882",
+      "list_id": "vetements",
+      "title": "Vide dressing femme",
+      "price": 5,
+      "location": "Saint-Symphorien-sur-Saône 21170",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.374576"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3069991171",
+      "list_id": "vetements",
+      "title": "Vide dressing ZARA",
+      "price": 6,
+      "location": "Saint-Pierre 97410",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.374928"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3074807094",
+      "list_id": "evenements",
+      "title": "Vide atelier et vide dressing",
+      "price": 1,
+      "location": "La Haie-Fouassière 44690 La Cornillère",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:39:51.375190"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3065086238",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 100,
+      "location": "Cazouls-lès-Béziers 34370",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.375451"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3064911777",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 10,
+      "location": "Tarbes 65000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.375700"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3078087319",
+      "list_id": "evenements",
+      "title": "Vide-maison/garage - Vide- dressing",
+      "location": "Gap 05000",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:39:51.375936"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3064707117",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 0,
+      "location": "Gex 01170",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.376145"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3063060025",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Soye-en-Septaine 18340",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.376294"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3072466969",
+      "list_id": "evenements",
+      "title": "Vide maison et vide dressing",
+      "location": "Perrusson 37600",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:39:51.376441"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3062340291",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 6,
+      "location": "Remire-Montjoly 97354",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.376592"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3066394657",
+      "list_id": "vetements",
+      "title": "Vide dressing Thionville",
+      "price": 1,
+      "location": "Thionville 57100",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.376737"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3064371548",
+      "list_id": "evenements",
+      "title": "Vide dressing",
+      "price": 5,
+      "location": "Augy 89290",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:39:51.376888"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3058206562",
+      "list_id": "vetements",
+      "title": "Vide dressing Haute Couture",
+      "price": 3500,
+      "location": "La Bastide-des-Jourdans 84240",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.377034"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3077110100",
+      "list_id": "vetements",
+      "title": "Vide Dressing Pont-Aven",
+      "price": 1,
+      "location": "Pont-Aven 29930",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.377179"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3073398777",
+      "list_id": "vetements",
+      "title": "Vide dressing homme 1",
+      "price": 1,
+      "location": "Espaly-Saint-Marcel 43000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.377333"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements_bebe/3060600020",
+      "list_id": "vetements_bebe",
+      "title": "Vide dressing bébés / enfants",
+      "price": 12345,
+      "location": "Jurançon 64110",
+      "category_name": "Vêtements bébé",
+      "scraped_at": "2025-10-21T20:39:51.377488"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3065621260",
+      "list_id": "vetements",
+      "title": "Vide dressing manteau",
+      "price": 10,
+      "location": "Villeparisis 77270",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.377642"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3076387161",
+      "list_id": "vetements",
+      "title": "Vide dressing Homme Femme",
+      "price": 1,
+      "location": "Reims 51100",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.377793"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3068232567",
+      "list_id": "vetements",
+      "title": "Vide dressing enfants",
+      "price": 1,
+      "location": "Carrières-sur-Seine 78420",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.377979"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/1954955988",
+      "list_id": "evenements",
+      "title": "Vide dressing enfants mixte",
+      "price": 5,
+      "location": "Paris 75006 6e Arrondissement",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:39:51.378131"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3077160593",
+      "list_id": "vetements",
+      "title": "Vide dressing d’Agathe et Mayeul",
+      "price": 1,
+      "location": "Limoges 87000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.378276"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3076826271",
+      "list_id": "vetements",
+      "title": "VIDE DRESSING 36-38 Chemisier",
+      "price": 6,
+      "location": "Avignon 84000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.378419"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3076824615",
+      "list_id": "vetements",
+      "title": "VIDE DRESSING 36-38 Manteau",
+      "price": 10,
+      "location": "Avignon 84000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.378561"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3076823202",
+      "list_id": "vetements",
+      "title": "VIDE DRESSING 36-38 Robe",
+      "price": 6,
+      "location": "Avignon 84000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.378702"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3076821498",
+      "list_id": "vetements",
+      "title": "VIDE DRESSING 36-38 Robe",
+      "price": 6,
+      "location": "Avignon 84000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.378848"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3076817224",
+      "list_id": "vetements",
+      "title": "VIDE DRESSING 36-38 Jupe",
+      "price": 8,
+      "location": "Avignon 84000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.379029"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3076810531",
+      "list_id": "vetements",
+      "title": "VIDE DRESSING 36-38 Veste",
+      "price": 10,
+      "location": "Avignon 84000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.379172"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3075011670",
+      "list_id": "vetements",
+      "title": "Vêtements vide dressing femme",
+      "price": 100,
+      "location": "Irigny 69540",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.379312"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3076807956",
+      "list_id": "vetements",
+      "title": "VIDE DRESSING 36-38 Manteau",
+      "price": 10,
+      "location": "Avignon 84000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.379464"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3076813280",
+      "list_id": "vetements",
+      "title": "VIDE DRESSING 36-38 Tailleur",
+      "price": 20,
+      "location": "Avignon 84000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:39:51.379606"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3074389364",
+      "list_id": "vetements",
+      "title": "Vide dressing de sevemy59",
+      "price": 5,
+      "location": "Rejet-de-Beaulieu 59360",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:40:26.123061"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3049143031",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Boulay-Moselle 57220",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:40:26.123224"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3076130860",
+      "list_id": "vetements",
+      "title": "Vide dressing 6/7 ans",
+      "price": 3,
+      "location": "Le Port 97420",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:40:26.123378"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3073386818",
+      "list_id": "vetements",
+      "title": "Liquidation Vide dressing enfants",
+      "price": 1,
+      "location": "Saint-Orens-de-Gameville 31650",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:40:26.123578"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3073193255",
+      "list_id": "vetements",
+      "title": "Urgent  Vide dressing enfant",
+      "price": 2,
+      "location": "Val-du-Layon 49750",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:40:26.123750"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077734463",
+      "list_id": "ameublement",
+      "title": "Vide maison et vide dressing",
+      "price": 0,
+      "location": "Aujac 17770",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:40:26.123918"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3063434122",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 5,
+      "location": "Saint-Nazaire 44600",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:40:26.124067"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3067328105",
+      "list_id": "vetements",
+      "title": "Vide dressing/ habit",
+      "price": 1,
+      "location": "Wattrelos 59150",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:40:26.124216"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3067325728",
+      "list_id": "vetements",
+      "title": "Vide dressing/ habit",
+      "price": 1,
+      "location": "Wattrelos 59150",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:40:26.124364"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3077314790",
+      "list_id": "vetements",
+      "title": "Vide dressing homme et femme",
+      "price": 2,
+      "location": "Canohès 66680",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:40:26.124522"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3061227604",
+      "list_id": "evenements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Saint-Laurent-de-la-Salanque 66250",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:40:26.124682"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3076748309",
+      "list_id": "evenements",
+      "title": "Vide maison et vide dressing",
+      "location": "Chitenay 41120",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:40:26.124811"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3076681279",
+      "list_id": "evenements",
+      "title": "Vide maison et vide dressing",
+      "price": 1,
+      "location": "Buchères 10800",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:40:26.124965"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3063283837",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Périgueux 24000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:40:26.125112"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3063261577",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "location": "Paris 75014 14e Arrondissement",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:40:26.125232"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3072776113",
+      "list_id": "vetements",
+      "title": "Vide dressing 36 38",
+      "price": 1,
+      "location": "Saint-Maurice-l'Exil 38550",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:40:26.125379"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3060752308",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 1,
+      "location": "Verneuil d'Avre et d'Iton 27130",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:40:26.125610"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3061732711",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 149,
+      "location": "Lardy 91510",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:40:26.125805"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3066836705",
+      "list_id": "vetements",
+      "title": "Urgent vide dressing",
+      "price": 15,
+      "location": "Ambérieu-en-Bugey 01500 Rougemont",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:40:26.125959"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3061120730",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "location": "Villeparisis 77270",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:40:26.126082"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/equipement_bebe/3073488576",
+      "list_id": "equipement_bebe",
+      "title": "Vide dressing fille et puéricultrice",
+      "price": 0,
+      "location": "Marval 87440",
+      "category_name": "Équipement bébé",
+      "scraped_at": "2025-10-21T20:40:26.126231"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3062922161",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 5,
+      "location": "Finhan 82700",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:40:26.126380"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/evenements/3076270954",
+      "list_id": "evenements",
+      "title": "Vide dressing femme homme enfant",
+      "price": 1,
+      "location": "Cergy 95800",
+      "category_name": "Évènements",
+      "scraped_at": "2025-10-21T20:40:26.126573"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/2042636141",
+      "list_id": "vetements",
+      "title": "Vide Dressing",
+      "price": 1,
+      "location": "Yvré-le-Pôlin 72330",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:40:26.126722"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3059592532",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 5,
+      "location": "Wittelsheim 68310",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:40:26.126871"
+    }
+  ],
+  "statistics": {
+    "total_with_price": 158,
+    "min_price": 1,
+    "max_price": 12345,
+    "avg_price": 113.16,
+    "median_price": 3
+  }
+}
