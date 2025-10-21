@@ -1,0 +1,1814 @@
+{
+  "metadata": {
+    "query": "dressing",
+    "total_ads": 200,
+    "scraped_at": "2025-10-21T20:21:21.854180",
+    "scraper": "Scrapling JSON Scraper v1.0",
+    "method": "StealthyFetcher"
+  },
+  "ads": [
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3073686923",
+      "list_id": "ameublement",
+      "title": "Vente dressing ikéa PAC 250x60x236",
+      "price": 900,
+      "location": "Bouray-sur-Juine 91850",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.241825"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/locations/3077594309",
+      "list_id": "locations",
+      "title": "Appartement T2 avec dressing et jardin. Lille VAUBAN",
+      "price": 947,
+      "location": "Lille 59800 Vauban-Esquermes",
+      "category_name": "Locations",
+      "scraped_at": "2025-10-21T20:19:57.242042"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3072386517",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 60,
+      "location": "Le Mans 72000",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.242225"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3052982124",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 80,
+      "location": "Paris 75020 20e Arrondissement",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.242421"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3070387618",
+      "list_id": "ameublement",
+      "title": "Armoire dressing",
+      "price": 55,
+      "location": "Illzach 68110",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.242597"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3067892580",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 135,
+      "location": "Châlons-en-Champagne 51000",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.242776"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3074351031",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 60,
+      "location": "La Rochelle 17000",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.242939"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3068700840",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 100,
+      "location": "Palaiseau 91120",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.243101"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3068852986",
+      "list_id": "ameublement",
+      "title": "Dressing blanc 200x200x48",
+      "price": 100,
+      "location": "Calais 62100",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.243263"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3074527564",
+      "list_id": "ameublement",
+      "title": "Dressing Leroy merlin",
+      "price": 80,
+      "location": "Amiens 80000 St.-Honoré-Jeanne d'Arc",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.243445"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3075379103",
+      "list_id": "ameublement",
+      "title": "Dressing Ikea",
+      "price": 59,
+      "location": "Paris 75010 10e Arrondissement",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.243623"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3073786096",
+      "list_id": "ameublement",
+      "title": "Dressing 2 colonnes",
+      "price": 60,
+      "location": "Chinon 37500",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.243860"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3072060694",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 300,
+      "location": "Toulon 83000",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.244023"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3070114390",
+      "list_id": "ameublement",
+      "title": "Dressing Leroy merlin quasiment neuf",
+      "price": 70,
+      "location": "Sablé-sur-Sarthe 72300",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.244256"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3057654579",
+      "list_id": "ameublement",
+      "title": "Meuble dressing",
+      "price": 90,
+      "location": "Volx 04130",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.244455"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3068782629",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 180,
+      "location": "Perpignan 66000",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.244637"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3069537950",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 110,
+      "location": "Royan 17200",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.244806"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077701451",
+      "list_id": "ameublement",
+      "title": "Dressing 6 pièces",
+      "price": 780,
+      "location": "Paris 75009 9e Arrondissement",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.244970"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3005175110",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 1600,
+      "location": "Vernon 27200",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.245147"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3069730627",
+      "list_id": "ameublement",
+      "title": "Grand dressing",
+      "price": 200,
+      "location": "Compiègne 60200",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.245309"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3057305582",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 80,
+      "location": "Laneuveville-devant-Nancy 54410 La Madeleine",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.245473"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3061617479",
+      "list_id": "ameublement",
+      "title": "Dressing (étagère)",
+      "price": 180,
+      "location": "Rennes 35000 Centre",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.245632"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3071980339",
+      "list_id": "ameublement",
+      "title": "Dressing penderie",
+      "price": 50,
+      "location": "Nice 06100 Saint-Sylvestre",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.245806"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3075451523",
+      "list_id": "ameublement",
+      "title": "Meubles dressing en l'état",
+      "price": 50,
+      "location": "Wiwersheim 67370",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.245979"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3066309756",
+      "list_id": "ameublement",
+      "title": "Dressing ikea",
+      "price": 300,
+      "location": "Haguenau 67500",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.246183"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/2965831056",
+      "list_id": "ameublement",
+      "title": "Dressing ikea",
+      "price": 200,
+      "location": "Metz 57050 Devant-les-Ponts",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.246467"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3076846036",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 50,
+      "location": "Nantes 44000 Centre-Ville",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.246686"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078289273",
+      "list_id": "ameublement",
+      "title": "Vendre dressing blanc",
+      "price": 80,
+      "location": "Vernouillet 78540",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.246910"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3072687456",
+      "list_id": "ameublement",
+      "title": "Dressing noir IKEA",
+      "price": 60,
+      "location": "Lorient 56100",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.247253"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3071180012",
+      "list_id": "ameublement",
+      "title": "Dressing à récupérer aujourd’hui",
+      "price": 85,
+      "location": "Reims 51100",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.247544"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078248395",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 50,
+      "location": "Le Sourn 56300",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.247711"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3052071402",
+      "list_id": "ameublement",
+      "title": "Armoire dressing",
+      "price": 200,
+      "location": "Fontenay-aux-Roses 92260",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.247934"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3046090477",
+      "list_id": "ameublement",
+      "title": "Dressing a vendre",
+      "price": 450,
+      "location": "Crosne 91560",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.248106"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3046205797",
+      "list_id": "ameublement",
+      "title": "Placard dressing",
+      "price": 75,
+      "location": "Dijon 21000 Maladière-Drapeau-Clemenceau",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.248283"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3075717193",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 80,
+      "location": "Grosrouvre 78490",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.248444"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3070523503",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 50,
+      "location": "Lyon 69002",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.248603"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078634555",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 20,
+      "location": "Ars 16130",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:19:57.249190"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3071237924",
+      "list_id": "ameublement",
+      "title": "Dressing et placard sur mesure",
+      "price": 1200,
+      "location": "Allex 26400",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.935306"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3073686923",
+      "list_id": "ameublement",
+      "title": "Vente dressing ikéa PAC 250x60x236",
+      "price": 900,
+      "location": "Bouray-sur-Juine 91850",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.935481"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3076403771",
+      "list_id": "ameublement",
+      "title": "Dressing équipé Pax + Komplement",
+      "price": 350,
+      "location": "Andrésy 78570",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.935659"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3067036208",
+      "list_id": "ameublement",
+      "title": "3 portes de dressing",
+      "price": 60,
+      "location": "Roanne 42300",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.935832"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3058567487",
+      "list_id": "vetements",
+      "title": "Vide dressing ( vêtements neufs)",
+      "location": "Pointe-à-Pitre 97110",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:20:11.935977"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3019911635",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 70,
+      "location": "Livry-Gargan 93190",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.936186"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/decoration/3025011717",
+      "list_id": "decoration",
+      "title": "Dressing Rooms de Rêve",
+      "price": 1,
+      "location": "Brunoy 91800",
+      "category_name": "Décoration",
+      "scraped_at": "2025-10-21T20:20:11.936358"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3069577966",
+      "list_id": "ameublement",
+      "title": "Vente dressing sur mesure",
+      "price": 250,
+      "location": "Igny 91430",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.936518"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3075451523",
+      "list_id": "ameublement",
+      "title": "Meubles dressing en l'état",
+      "price": 50,
+      "location": "Wiwersheim 67370",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.936675"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3063249379",
+      "list_id": "ameublement",
+      "title": "Portes coulissantes pour dressing",
+      "price": 60,
+      "location": "Marignane 13700",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.936843"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3071180012",
+      "list_id": "ameublement",
+      "title": "Dressing à récupérer aujourd’hui",
+      "price": 85,
+      "location": "Reims 51100",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.936999"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3073691950",
+      "list_id": "ameublement",
+      "title": "Vends Dressing ikéa Pax 200x43x238",
+      "price": 510,
+      "location": "Bouray-sur-Juine 91850",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.937161"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3063667887",
+      "list_id": "ameublement",
+      "title": "Étagère de placard ou dressing",
+      "price": 45,
+      "location": "Treffiagat 29730",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.937331"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3073686923",
+      "list_id": "ameublement",
+      "title": "Vente dressing ikéa PAC 250x60x236",
+      "price": 900,
+      "location": "Bouray-sur-Juine 91850",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.937486"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3073739436",
+      "list_id": "ameublement",
+      "title": "Dressing 1 colonne 1 penderie",
+      "price": 50,
+      "location": "Rodez 12000",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.937640"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3075074933",
+      "list_id": "ameublement",
+      "title": "Grand dressing 170cm par 200cm",
+      "price": 300,
+      "location": "Plobannalec-Lesconil 29740",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.937850"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3069732486",
+      "list_id": "ameublement",
+      "title": "Dressing / penderie Castorama (gamme Perkin)",
+      "price": 70,
+      "location": "Paris 75015 15e Arrondissement",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.938046"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3040260372",
+      "list_id": "vetements",
+      "title": "Vide dressing à mon domicile",
+      "price": 5,
+      "location": "Limoges 87000",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:20:11.938260"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3070114390",
+      "list_id": "ameublement",
+      "title": "Dressing Leroy merlin quasiment neuf",
+      "price": 70,
+      "location": "Sablé-sur-Sarthe 72300",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.938460"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3053627257",
+      "list_id": "ameublement",
+      "title": "Dressing en merisier massif – Fabrication artisanale",
+      "price": 75,
+      "location": "Le Pecq 78230",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.938678"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/services_de_jardinerie_bricolage/3054283239",
+      "list_id": "services_de_jardinerie_bricolage",
+      "title": "Agencement, cuisiniste, dressing, meubles sur mesure",
+      "price": 40,
+      "location": "Le Boulou 66160",
+      "category_name": "Services de jardinerie & bricolage",
+      "scraped_at": "2025-10-21T20:20:11.938860"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3039180131",
+      "list_id": "ameublement",
+      "title": "Penderie Dressing Type Rackbuddy - Tubulaire industriel",
+      "price": 180,
+      "location": "Le Pré-Saint-Gervais 93310",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.939041"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/2096487658",
+      "list_id": "ameublement",
+      "title": "Façade de dressing sur mesure vieux bois",
+      "price": 1325,
+      "location": "Nice 06300",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.939216"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3058942377",
+      "list_id": "ameublement",
+      "title": "Dressing modulable 5 penderies et 33 étagères caissons",
+      "price": 290,
+      "location": "Prix-lès-Mézières 08000",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.939407"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3056091785",
+      "list_id": "ameublement",
+      "title": "Grand vide-box vide-dressing",
+      "price": 10,
+      "location": "Gap 05000",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.939587"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3044996596",
+      "list_id": "ameublement",
+      "title": "Dressing IKEA",
+      "price": 550,
+      "location": "Montreuil 93100",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.939768"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/2961978491",
+      "list_id": "ameublement",
+      "title": "Grand dressing",
+      "price": 600,
+      "location": "Meudon 92360 -la-Forêt",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.940091"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3054582172",
+      "list_id": "ameublement",
+      "title": "Dressing avec étagère, tiroirs et penderie - style chêne clair",
+      "price": 60,
+      "location": "Bagneux 92220",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.940292"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3069189672",
+      "list_id": "ameublement",
+      "title": "Vente : Dressing : Armoire arera, structure pour dressing d'angle, porte-manteau d'angle ouvert, 248x79h187 cm, chêne. ( suite à un déménagement fin octobre)",
+      "price": 330,
+      "location": "Déville-lès-Rouen 76250",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.943789"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/caravaning/3021409633",
+      "list_id": "caravaning",
+      "title": "Itineo sb740 - boite auto - 5 places - dressing",
+      "price": 79300,
+      "location": "Gravigny 27930",
+      "category_name": "Caravaning",
+      "scraped_at": "2025-10-21T20:20:11.944012"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/caravaning/3021393908",
+      "list_id": "caravaning",
+      "title": "Itineo pc640 - 6m40 - 4 places - grand dressing",
+      "price": 68124,
+      "location": "Gravigny 27930",
+      "category_name": "Caravaning",
+      "scraped_at": "2025-10-21T20:20:11.944189"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/services_de_jardinerie_bricolage/3071350713",
+      "list_id": "services_de_jardinerie_bricolage",
+      "title": "🪚 Menuisier & agenceur bois sur-mesure – Dressing, Rangements, Bibliothèques...",
+      "price": 1,
+      "location": "Villeneuve-d'Ascq 59650 Les Prés",
+      "category_name": "Services de jardinerie & bricolage",
+      "scraped_at": "2025-10-21T20:20:11.944360"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/vetements/3042180039",
+      "list_id": "vetements",
+      "title": "Vide dressing",
+      "price": 500,
+      "location": "Seurre 21250",
+      "category_name": "Vêtements",
+      "scraped_at": "2025-10-21T20:20:11.944519"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/autres_services/3066993908",
+      "list_id": "autres_services",
+      "title": "Conseil, montage, installation & pose – Cuisine équipée, dressing & placard sur mesure Lille & régions voisines",
+      "price": 1,
+      "location": "Lille 59000",
+      "category_name": "Autres services",
+      "scraped_at": "2025-10-21T20:20:11.944717"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/2293677281",
+      "list_id": "ameublement",
+      "title": "KAZED 2 portes coulissantes complètes avec rails, style industriel pour rangement ou dressing",
+      "price": 130,
+      "location": "Vallauris 06220 Golfe Juan",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.944960"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/2952587279",
+      "list_id": "ameublement",
+      "title": "Dressing / Armoire - Marque M.Meuble (Celio) - prêt à être emporté",
+      "price": 2700,
+      "location": "Champigny en Rochereau 86170",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.945150"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3065198208",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 100,
+      "location": "Lamotte-Beuvron 41600",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:11.945372"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/locations/3077594309",
+      "list_id": "locations",
+      "title": "Appartement T2 avec dressing et jardin. Lille VAUBAN",
+      "price": 947,
+      "location": "Lille 59800 Vauban-Esquermes",
+      "category_name": "Locations",
+      "scraped_at": "2025-10-21T20:20:27.573305"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3071237924",
+      "list_id": "ameublement",
+      "title": "Dressing et placard sur mesure",
+      "price": 1200,
+      "location": "Allex 26400",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.573539"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078217222",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 30,
+      "location": "Nice 06300",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.573724"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077261371",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 80,
+      "location": "Tourcoing 59200",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.573902"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078828181",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 110,
+      "location": "Saint-Avertin 37550",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.574201"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077953793",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 20,
+      "location": "Quillan 11500",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.574467"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077707907",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 400,
+      "location": "Paris 75011 11e Arrondissement",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.574691"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077554530",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 50,
+      "location": "Vallauris 06220",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.574903"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077369438",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 80,
+      "location": "Lille 59000",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.575084"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077753925",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 60,
+      "location": "Sarcelles 95200",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.575313"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078125434",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 300,
+      "location": "Lyon 69007 7e Arrondissement",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.575528"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077086147",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 100,
+      "location": "Chalon-sur-Saône 71100",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.575689"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077083542",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 50,
+      "location": "Capesterre-Belle-Eau 97130",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.575855"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077544951",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 75,
+      "location": "Domène 38420",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.576037"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078277535",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 8,
+      "location": "Aubervilliers 93300",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.576245"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078800413",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 35,
+      "location": "Tourcoing 59200",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.576451"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078571566",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 60,
+      "location": "Seignosse 40510 Le Penon",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.576636"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078158761",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 59,
+      "location": "Villeneuve-la-Garenne 92390",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.576843"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078223680",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 110,
+      "location": "Angers 49100",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.577016"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078026813",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 30,
+      "location": "Albert 80300",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.577178"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078678770",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 60,
+      "location": "Les Gonds 17100",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.577334"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078396234",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 55,
+      "location": "Ambleny 02290",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.577487"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078339962",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 70,
+      "location": "Langon 33210",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.577638"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3076823642",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 45,
+      "location": "Montauban-de-Bretagne 35360",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.577791"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078646108",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 30,
+      "location": "Perpignan 66000",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.578006"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078598400",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 50,
+      "location": "Saint-Julien-sur-Reyssouze 01560",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.578221"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078031804",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 90,
+      "location": "Lorette 42420",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.578386"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3076846901",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 15,
+      "location": "L'Aiguillon-la-Presqu'île 85460 La Faute-sur-Mer",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.578547"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078697592",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 80,
+      "location": "La Rochelle 17000",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.578705"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078602928",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 60,
+      "location": "Besançon 25000",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.578862"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077663683",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 50,
+      "location": "Épinal 88000",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.579023"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078862921",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 300,
+      "location": "Fameck 57290",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.579183"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078695229",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 30,
+      "location": "Allauch 13190",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.579356"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078594798",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 150,
+      "location": "Albertville 73200",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.579508"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078797121",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 60,
+      "location": "Vannes 56000",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.579662"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3076792773",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 80,
+      "location": "Marseille 13009 9e Arrondissement",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.579825"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3070523503",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 50,
+      "location": "Lyon 69002",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:27.579976"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3071237924",
+      "list_id": "ameublement",
+      "title": "Dressing et placard sur mesure",
+      "price": 1200,
+      "location": "Allex 26400",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.519558"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/caravaning/2862924596",
+      "list_id": "caravaning",
+      "title": "Mobil home d occasion 3ch dressing 2022 clé en main sur Camping familial Proche Lac et océan",
+      "price": 44500,
+      "location": "Biscarrosse 40600",
+      "category_name": "Caravaning",
+      "scraped_at": "2025-10-21T20:20:42.519762"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078230813",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 30,
+      "location": "Cesson 77240",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.519929"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077734593",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 15,
+      "location": "Bordeaux 33800",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.520090"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3076602249",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 80,
+      "location": "Blois 41000",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.520272"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077643581",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 1200,
+      "location": "Abbeville 80100",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.520432"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077655218",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 70,
+      "location": "Le Neubourg 27110",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.520591"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077896456",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 35,
+      "location": "Ronchin 59790",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.520756"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3076257092",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 250,
+      "location": "Vézelise 54330",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.520919"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077477188",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 90,
+      "location": "La Ciotat 13600",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.521077"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3076532750",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 50,
+      "location": "Villetaneuse 93430",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.521233"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078272204",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 100,
+      "location": "Nice 06300",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.521390"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078109990",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 80,
+      "location": "Saint-Germain-en-Laye 78100",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.521546"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077907766",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 350,
+      "location": "Pantin 93500",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.521701"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077893970",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 45,
+      "location": "Ronchin 59790",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.521897"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077495019",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 30,
+      "location": "Strasbourg 67100",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.522103"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078733309",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 110,
+      "location": "Lorient 56100",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.522274"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078549363",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 100,
+      "location": "La Verpillière 38290",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.522513"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077753839",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 50,
+      "location": "La Voulte-sur-Rhône 07800",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.522746"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078816399",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 80,
+      "location": "Tournefeuille 31170",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.523068"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078812582",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 40,
+      "location": "Plufur 22310",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.523293"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078811035",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 60,
+      "location": "Iwuy 59141",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.523593"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077230134",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 20,
+      "location": "Quint-Fonsegrives 31130",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.523875"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078194333",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 100,
+      "location": "Entrelacs 73410",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.524036"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3076707819",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 250,
+      "location": "Marignier 74970",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.524264"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3076658593",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 60,
+      "location": "Delle 90100",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.524465"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3076372956",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 100,
+      "location": "Reims 51100",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.524630"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3076626449",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 50,
+      "location": "Ambarès-et-Lagrave 33440",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.524810"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077864649",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 80,
+      "location": "Dampierre-sur-Salon 70180",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.524974"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077817370",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 70,
+      "location": "Marseille 13002 2e Arrondissement",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.525134"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3047623855",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 150,
+      "location": "Vern-sur-Seiche 35770",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.525306"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077794628",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 80,
+      "location": "Saint-Romain-de-Jalionas 38460 Sainte-Marie Tortas",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.525467"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3075985734",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 90,
+      "location": "Aillevillers-et-Lyaumont 70320",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.525623"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3076048326",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 30,
+      "location": "Bollène 84500",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.525780"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078394034",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 400,
+      "location": "Pleaux 15700",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.525936"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3051801520",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 80,
+      "location": "Nantes 44000",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.526105"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078271543",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 500,
+      "location": "Delincourt 60240",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:42.526261"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/locations/3077594309",
+      "list_id": "locations",
+      "title": "Appartement T2 avec dressing et jardin. Lille VAUBAN",
+      "price": 947,
+      "location": "Lille 59800 Vauban-Esquermes",
+      "category_name": "Locations",
+      "scraped_at": "2025-10-21T20:20:59.257387"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/services_de_jardinerie_bricolage/2734192707",
+      "list_id": "services_de_jardinerie_bricolage",
+      "title": "Menuisier PRO- Cuisine /Parquet/ Dressing/Meuble/Terrasse",
+      "location": "Toulouse 31200",
+      "category_name": "Services de jardinerie & bricolage",
+      "scraped_at": "2025-10-21T20:20:59.257593"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078262412",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 50,
+      "location": "Tourcoing 59200",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.257796"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077757275",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 100,
+      "location": "Yerres 91330",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.257980"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077481177",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 90,
+      "location": "Perpignan 66000",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.258144"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077652587",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 250,
+      "location": "Tarbes 65000",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.258303"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077631387",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 40,
+      "location": "Montmerle-sur-Saône 01090",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.258463"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078862724",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 50,
+      "location": "Caen 14000",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.258620"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077783259",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 50,
+      "location": "Châteauroux 36000",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.258776"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3076944428",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 80,
+      "location": "Lyon 69008 8e Arrondissement",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.258941"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3075815560",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "location": "Bouvigny-Boyeffles 62172",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.259325"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3076706199",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 160,
+      "location": "Nogent-sur-Marne 94130",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.259498"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077324406",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 22,
+      "location": "Saint-Chély-d'Apcher 48200",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.259661"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3076489811",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 80,
+      "location": "Cogolin 83310",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.259819"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3076778624",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 25,
+      "location": "Noisiel 77186",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.259988"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078051564",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 100,
+      "location": "Combourtillé 35210",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.260148"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/decoration/3075774682",
+      "list_id": "decoration",
+      "title": "Dressing",
+      "price": 70,
+      "location": "Le Mans 72000",
+      "category_name": "Décoration",
+      "scraped_at": "2025-10-21T20:20:59.260320"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077159643",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 80,
+      "location": "Florensac 34510",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.260477"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3072761690",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 50,
+      "location": "Aigondigné 79370",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.260637"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077904700",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 80,
+      "location": "Rouen 76000",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.260793"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077644960",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 10,
+      "location": "La Bazoge 72650",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.261389"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3063265809",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 100,
+      "location": "Villers-le-Lac 25130",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.261579"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078721583",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 50,
+      "location": "Arbonne 64210",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.261774"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3075667581",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 20,
+      "location": "Aubignan 84810",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.262104"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078455526",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 120,
+      "location": "Celon 36200",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.262300"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078428951",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 100,
+      "location": "Laval 53000",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.262530"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078622170",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 150,
+      "location": "Chassieu 69680",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.262843"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077533046",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 100,
+      "location": "Roques 31120",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.263125"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3062409759",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 500,
+      "location": "Brest 29200",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.263344"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078293861",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 75,
+      "location": "Marseille 13010 10e Arrondissement",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.263505"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077288939",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 130,
+      "location": "Objat 19130",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.263662"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078258277",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 100,
+      "location": "Mareil-le-Guyon 78490",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.263855"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3076272051",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 40,
+      "location": "Noisy-le-Sec 93130",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.264027"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3078288778",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 100,
+      "location": "Remoulins 30210",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.264176"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077733049",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 10,
+      "location": "Bordeaux 33800",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.264326"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3071738336",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 100,
+      "location": "Piolenc 84420",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.264559"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3076598769",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 75,
+      "location": "Poses 27740",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:20:59.264708"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/caravaning/2862924596",
+      "list_id": "caravaning",
+      "title": "Mobil home d occasion 3ch dressing 2022 clé en main sur Camping familial Proche Lac et océan",
+      "price": 44500,
+      "location": "Biscarrosse 40600",
+      "category_name": "Caravaning",
+      "scraped_at": "2025-10-21T20:21:14.056442"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/services_de_jardinerie_bricolage/2734192707",
+      "list_id": "services_de_jardinerie_bricolage",
+      "title": "Menuisier PRO- Cuisine /Parquet/ Dressing/Meuble/Terrasse",
+      "location": "Toulouse 31200",
+      "category_name": "Services de jardinerie & bricolage",
+      "scraped_at": "2025-10-21T20:21:14.056591"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077906078",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 40,
+      "location": "Chalon-sur-Saône 71100",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:21:14.056753"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3061009840",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 30,
+      "location": "Les Sorinières 44840",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:21:14.056935"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077629788",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 70,
+      "location": "Landévant 56690",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:21:14.057113"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3076885452",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 70,
+      "location": "Mouroux 77120",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:21:14.057273"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077571331",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 45,
+      "location": "Limésy 76570",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:21:14.057453"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077550167",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 30,
+      "location": "Angers 49100",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:21:14.057646"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3069834045",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 50,
+      "location": "Limoges 87000",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:21:14.057822"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077508193",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 90,
+      "location": "Montbéliard 25200",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:21:14.058050"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077773584",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 100,
+      "location": "Le Tampon 97430",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:21:14.058273"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077467140",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 80,
+      "location": "Montataire 60160",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:21:14.058521"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077391700",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 100,
+      "location": "Nant-le-Grand 55500",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:21:14.058721"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3077332101",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 65,
+      "location": "Cugnaux 31270",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:21:14.058886"
+    },
+    {
+      "url": "https://www.leboncoin.fr/ad/ameublement/3076717072",
+      "list_id": "ameublement",
+      "title": "Dressing",
+      "price": 60,
+      "location": "Masny 59176",
+      "category_name": "Ameublement",
+      "scraped_at": "2025-10-21T20:21:14.059077"
+    }
+  ],
+  "statistics": {
+    "total_with_price": 196,
+    "min_price": 1,
+    "max_price": 79300,
+    "avg_price": 1390.08,
+    "median_price": 80
+  }
+}

@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+logs/
+
+# Data & Exports
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+exports/*.csv
+exports/*.xlsx
+
+# Debug Files
+debug_*.html
+debug_*.json
+test_*.py
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Scrapers
+selenium_scraper.log
+leboncoin_scraper.log
+
+# Temporary Files
+*.tmp
+*.temp
